@@ -2,7 +2,7 @@ repo_name: thanhit1990/thanhit1990
 report_id: 6d02fad3e66ff187044274cf69dd4bb2
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-19T05:20:32+00:00'
+timestamp: '2024-01-05T08:20:36+00:00'
 requested_by: thanhit1990
 provider: github
 branch: main
@@ -16,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/thanhit1990/thanhit1990
   detection_source: Repo Metadata
